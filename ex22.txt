@@ -1,0 +1,39 @@
+# Exercise 22
+
+puts - Used to display the string or value of a variable or numbers
+"" - double quotes use to write string and variables
+'' - double quotes use to write string
+# - hash - used to write text comment in a ruby file
++ - plus - mathematical operator for Addition
+- - minus - mathematical operator for Subtraction
+/ slash - mathematical operator for Division
+* asterisk - mathematical operator for Multiply
+% percent - mathematical operator for modules
+< - less-than, > - greater-than, <= - less-than-equal, >= - greater-than-equal ---- comparison
+{,} - left bracket, right bracket - used to insert a variable inside "puts"
+_ - underscore
+print - used to display the string or value of a variable or numbers, but don't create new line after output
+%{} - used to define the template for multiple values
+\n - new-line
+\t - tab
+%q{} - Used to display multiple line string
+""" """ - Used to display multiple line string
+\ - back slash - used as precede to display special characters like  ',",\
+gets - get string - used to get the input from user in command line
+.chomp - Used to avoid white space after input values
+.to_i - Used to convert the input values to integer
+.to_f - Used to convert the input values to float
+ARGV - used to get values from user in comment line at the call of file
+$stdin.gets.chomp - used to get values from user at the middle of file execution in CLI
+open() - used to open the specified file
+close - used to close the instance of opened file
+.read - used to read the content of opened file
+truncate() - deletes the content of file.
+write() - used to enter the content in a file
+seek() - used to relocate cursor position
+File.exist?() - used to check the existence of file.
+def - used to declare before defining the function
+end - used to declare end of defining a functions
+*args - gets all the values passed in function and store in args
+echo "" > file name - to enter a string in a file in CLI
+return - returns the value as response to function call
